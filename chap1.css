@@ -1,0 +1,27 @@
+h1 {
+	color: white;
+}
+
+header {
+	background: url(https://static.zerochan.net/BLEACH.full.886404.jpg);
+	background-size: cover;
+	width: 1334px;
+	height: 437px;
+}
+
+body {
+	background-color: black;
+}
+
+img {
+	height: 1400px;
+	width: 813px;
+}
+
+div {  
+border: 2px solid black;  
+}  
+  
+#center {  
+text-align: center;  
+} 
